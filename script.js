@@ -1,4 +1,3 @@
-console.log("Password maker");
 
 function myfunc(){
    let t = document.getElementById("text");
